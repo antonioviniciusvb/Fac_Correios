@@ -1,0 +1,32 @@
+D:\Debug\VJJET\END\Carne_Jaguariuna\ConvertItabira\bin\Debug\Find_Address_Number_SPPREV.exe.config
+D:\Debug\VJJET\END\Carne_Jaguariuna\ConvertItabira\bin\Debug\Find_Address_Number_SPPREV.exe
+D:\Debug\VJJET\END\Carne_Jaguariuna\ConvertItabira\bin\Debug\Find_Address_Number_SPPREV.pdb
+D:\Debug\VJJET\END\Carne_Jaguariuna\ConvertItabira\obj\Debug\ConvertItabira.Form1.resources
+D:\Debug\VJJET\END\Carne_Jaguariuna\ConvertItabira\obj\Debug\Find_Address_Number_SPPREV.Properties.Resources.resources
+D:\Debug\VJJET\END\Carne_Jaguariuna\ConvertItabira\obj\Debug\FindAdressNumber.csproj.GenerateResource.cache
+D:\Debug\VJJET\END\Carne_Jaguariuna\ConvertItabira\obj\Debug\FindAdressNumber.csproj.CoreCompileInputs.cache
+D:\Debug\VJJET\END\Carne_Jaguariuna\ConvertItabira\obj\Debug\Find_Address_Number_SPPREV.exe
+D:\Debug\VJJET\END\Carne_Jaguariuna\ConvertItabira\obj\Debug\Find_Address_Number_SPPREV.pdb
+D:\Debug\VJJET\END\Carne_Jaguariuna\ConvertItabira\bin\Debug\ChoETL.dll
+D:\Debug\VJJET\END\Carne_Jaguariuna\ConvertItabira\obj\Debug\FindAdressNumber.csproj.CopyComplete
+D:\Debug\VJJET\END\Carne_Jaguariuna\ConvertItabira\obj\Debug\FindAdressNumber.csprojResolveAssemblyReference.cache
+D:\Debug\VJJET\END\FindAdressNumber\FindAdressNumber_\bin\Debug\Find_Address_Number_SPPREV.exe.config
+D:\Debug\VJJET\END\FindAdressNumber\FindAdressNumber_\bin\Debug\Find_Address_Number_SPPREV.exe
+D:\Debug\VJJET\END\FindAdressNumber\FindAdressNumber_\bin\Debug\Find_Address_Number_SPPREV.pdb
+D:\Debug\VJJET\END\FindAdressNumber\FindAdressNumber_\obj\Debug\FindAdressNumber.csprojResolveAssemblyReference.cache
+D:\Debug\VJJET\END\FindAdressNumber\FindAdressNumber_\obj\Debug\ConvertItabira.Form1.resources
+D:\Debug\VJJET\END\FindAdressNumber\FindAdressNumber_\obj\Debug\Find_Address_Number_SPPREV.Properties.Resources.resources
+D:\Debug\VJJET\END\FindAdressNumber\FindAdressNumber_\obj\Debug\FindAdressNumber.csproj.GenerateResource.cache
+D:\Debug\VJJET\END\FindAdressNumber\FindAdressNumber_\obj\Debug\FindAdressNumber.csproj.CoreCompileInputs.cache
+D:\Debug\VJJET\END\FindAdressNumber\FindAdressNumber_\obj\Debug\Find_Address_Number_SPPREV.exe
+D:\Debug\VJJET\END\FindAdressNumber\FindAdressNumber_\obj\Debug\Find_Address_Number_SPPREV.pdb
+c:\Users\andvi\OneDrive\Project\C#\FindAdressNumber - Copia\FindAdressNumber_\obj\Debug\FindAdressNumber.csprojAssemblyReference.cache
+c:\Users\andvi\OneDrive\Project\C#\FindAdressNumber - Copia\FindAdressNumber_\obj\Debug\ConvertItabira.Form1.resources
+c:\Users\andvi\OneDrive\Project\C#\FindAdressNumber - Copia\FindAdressNumber_\obj\Debug\FindAdressNumber.csproj.GenerateResource.cache
+c:\Users\andvi\OneDrive\Project\C#\FindAdressNumber - Copia\FindAdressNumber_\obj\Debug\FindAdressNumber.csproj.CoreCompileInputs.cache
+c:\Users\andvi\OneDrive\Project\C#\FindAdressNumber - Copia\FindAdressNumber_\bin\Debug\FAC.exe.config
+c:\Users\andvi\OneDrive\Project\C#\FindAdressNumber - Copia\FindAdressNumber_\bin\Debug\FAC.exe
+c:\Users\andvi\OneDrive\Project\C#\FindAdressNumber - Copia\FindAdressNumber_\bin\Debug\FAC.pdb
+c:\Users\andvi\OneDrive\Project\C#\FindAdressNumber - Copia\FindAdressNumber_\obj\Debug\FAC.Properties.Resources.resources
+c:\Users\andvi\OneDrive\Project\C#\FindAdressNumber - Copia\FindAdressNumber_\obj\Debug\FAC.exe
+c:\Users\andvi\OneDrive\Project\C#\FindAdressNumber - Copia\FindAdressNumber_\obj\Debug\FAC.pdb

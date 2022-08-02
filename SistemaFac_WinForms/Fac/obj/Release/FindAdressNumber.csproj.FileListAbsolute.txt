@@ -1,0 +1,11 @@
+D:\Debug\VJJET\END\Carne_Jaguariuna\ConvertItabira\bin\Release\Find_Address_Number_SPPREV.exe.config
+D:\Debug\VJJET\END\Carne_Jaguariuna\ConvertItabira\bin\Release\Find_Address_Number_SPPREV.exe
+D:\Debug\VJJET\END\Carne_Jaguariuna\ConvertItabira\bin\Release\Find_Address_Number_SPPREV.pdb
+D:\Debug\VJJET\END\Carne_Jaguariuna\ConvertItabira\bin\Release\ChoETL.dll
+D:\Debug\VJJET\END\Carne_Jaguariuna\ConvertItabira\obj\Release\ConvertItabira.Form1.resources
+D:\Debug\VJJET\END\Carne_Jaguariuna\ConvertItabira\obj\Release\Find_Address_Number_SPPREV.Properties.Resources.resources
+D:\Debug\VJJET\END\Carne_Jaguariuna\ConvertItabira\obj\Release\FindAdressNumber.csproj.GenerateResource.cache
+D:\Debug\VJJET\END\Carne_Jaguariuna\ConvertItabira\obj\Release\FindAdressNumber.csproj.CoreCompileInputs.cache
+D:\Debug\VJJET\END\Carne_Jaguariuna\ConvertItabira\obj\Release\FindAdressNumber.csproj.CopyComplete
+D:\Debug\VJJET\END\Carne_Jaguariuna\ConvertItabira\obj\Release\Find_Address_Number_SPPREV.exe
+D:\Debug\VJJET\END\Carne_Jaguariuna\ConvertItabira\obj\Release\Find_Address_Number_SPPREV.pdb

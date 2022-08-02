@@ -1,0 +1,25 @@
+
+
+CAMPO           INICIO   TAMANHO 
+CEP DESTINO       01      08  
+NUM DESTINO       09      05  
+CEP REMETENTE     14      08
+NUM REMETENTE     22      05
+DIG.C.CEP DEST    27      01   --- DIGITO CEPNET DO CEP DE DESTINO
+IDV               28      02   --- FAC SIMPLES SEMPRE É 01
+
+CIF               30      34
+{
+ DR POSTAGEM      30      02  --- SPM = 72
+ COD. ADM         32      08
+ Nº LOTE          40      05
+ SEQ OBJETO       45      11
+ COD. DESTINO     56      01  --- (1 OU 2 OU 3)
+ COD. RESERVA     57      01  --- SEMPRE IGUAL A 0
+ DATA POSTAGEM    58      06 
+}
+
+SERV. ADICIONAIS  64      10  --- FAC SIMPLES IGUAL A 10 ZEROS
+SERV. PRINCIPAL   74      05  --- 82015 = LOCAL; 82023 = ESTADUAL; 82031 = NACIONAL
+CAMPO RESERVA     79      15  --- 15 ZEROS
+CNAE              94      09  --- CLASSIFICACAO NACIONAL DE ATIVIDADES ECONOMICAS

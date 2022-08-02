@@ -1,0 +1,16 @@
+C:\Users\Vinicius\OneDrive\Project\C#\ConvertItabira\ConvertItabira\bin\Debug\ConvertItabira.exe.config
+C:\Users\Vinicius\OneDrive\Project\C#\ConvertItabira\ConvertItabira\bin\Debug\ConvertItabira.exe
+C:\Users\Vinicius\OneDrive\Project\C#\ConvertItabira\ConvertItabira\bin\Debug\ConvertItabira.pdb
+C:\Users\Vinicius\OneDrive\Project\C#\ConvertItabira\ConvertItabira\obj\Debug\ConvertItabira.Form1.resources
+C:\Users\Vinicius\OneDrive\Project\C#\ConvertItabira\ConvertItabira\obj\Debug\ConvertItabira.Properties.Resources.resources
+C:\Users\Vinicius\OneDrive\Project\C#\ConvertItabira\ConvertItabira\obj\Debug\ConvertItabira.csproj.GenerateResource.Cache
+C:\Users\Vinicius\OneDrive\Project\C#\ConvertItabira\ConvertItabira\obj\Debug\ConvertItabira.exe
+C:\Users\Vinicius\OneDrive\Project\C#\ConvertItabira\ConvertItabira\obj\Debug\ConvertItabira.pdb
+C:\Users\andvi\OneDrive\Project\C#\ConvertItabira\ConvertItabira\bin\Debug\ConvertItabira.exe.config
+C:\Users\andvi\OneDrive\Project\C#\ConvertItabira\ConvertItabira\bin\Debug\ConvertItabira.exe
+C:\Users\andvi\OneDrive\Project\C#\ConvertItabira\ConvertItabira\bin\Debug\ConvertItabira.pdb
+C:\Users\andvi\OneDrive\Project\C#\ConvertItabira\ConvertItabira\obj\Debug\ConvertItabira.Form1.resources
+C:\Users\andvi\OneDrive\Project\C#\ConvertItabira\ConvertItabira\obj\Debug\ConvertItabira.Properties.Resources.resources
+C:\Users\andvi\OneDrive\Project\C#\ConvertItabira\ConvertItabira\obj\Debug\ConvertItabira.csproj.GenerateResource.Cache
+C:\Users\andvi\OneDrive\Project\C#\ConvertItabira\ConvertItabira\obj\Debug\ConvertItabira.exe
+C:\Users\andvi\OneDrive\Project\C#\ConvertItabira\ConvertItabira\obj\Debug\ConvertItabira.pdb

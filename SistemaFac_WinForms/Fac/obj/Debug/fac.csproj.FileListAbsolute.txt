@@ -1,0 +1,40 @@
+c:\Users\andvi\OneDrive\Project\C#\FindAdressNumber - Copia\FindAdressNumber_\bin\Debug\FAC.exe.config
+c:\Users\andvi\OneDrive\Project\C#\FindAdressNumber - Copia\FindAdressNumber_\bin\Debug\FAC.exe
+c:\Users\andvi\OneDrive\Project\C#\FindAdressNumber - Copia\FindAdressNumber_\bin\Debug\FAC.pdb
+c:\Users\andvi\OneDrive\Project\C#\FindAdressNumber - Copia\FindAdressNumber_\obj\Debug\FAC.Properties.Resources.resources
+c:\Users\andvi\OneDrive\Project\C#\FindAdressNumber - Copia\FindAdressNumber_\obj\Debug\fac.csproj.GenerateResource.cache
+c:\Users\andvi\OneDrive\Project\C#\FindAdressNumber - Copia\FindAdressNumber_\obj\Debug\fac.csproj.CoreCompileInputs.cache
+c:\Users\andvi\OneDrive\Project\C#\FindAdressNumber - Copia\FindAdressNumber_\obj\Debug\FAC.exe
+c:\Users\andvi\OneDrive\Project\C#\FindAdressNumber - Copia\FindAdressNumber_\obj\Debug\FAC.pdb
+c:\Users\andvi\OneDrive\Project\C#\FindAdressNumber - Copia\FindAdressNumber_\obj\Debug\fac.csprojAssemblyReference.cache
+C:\Users\andvi\OneDrive\Project\C#\FindAdressNumber - Copia\FindAdressNumber_\bin\Debug\Correios.dll
+C:\Users\andvi\OneDrive\Project\C#\FindAdressNumber - Copia\FindAdressNumber_\bin\Debug\Correios.pdb
+C:\Users\andvi\OneDrive\Project\C#\FindAdressNumber - Copia\FindAdressNumber_\obj\Debug\fac.csproj.CopyComplete
+C:\Users\andvi\OneDrive\Project\C#\FindAdressNumber - Copia\FindAdressNumber_\obj\Debug\fac.Form1.resources
+C:\Users\andvi\OneDrive\Project\C#\FindAdressNumber - Copia\FindAdressNumber_\bin\Debug\plano_triagem.txt
+C:\Users\andvi\OneDrive\Project\C#\FindAdressNumber - Copia\FindAdressNumber_\bin\Debug\C5.dll
+C:\Users\andvi\OneDrive\Project\C#\FindAdressNumber - Copia\FindAdressNumber_\bin\Debug\C5.pdb
+C:\Users\andvi\OneDrive\Project\C#\FindAdressNumber - Copia\FindAdressNumber_\bin\Debug\C5.xml
+C:\Users\andvi\OneDrive\Project\C#\FindAdressNumber - Copia\FindAdressNumber_\bin\Debug\zxing.dll
+C:\Users\andvi\OneDrive\Project\C#\FindAdressNumber - Copia\FindAdressNumber_\bin\Debug\zxing.presentation.dll
+C:\Users\andvi\OneDrive\Project\C#\FindAdressNumber - Copia\FindAdressNumber_\bin\Debug\zxing.pdb
+C:\Users\andvi\OneDrive\Project\C#\FindAdressNumber - Copia\FindAdressNumber_\bin\Debug\zxing.xml
+C:\Users\andvi\OneDrive\Project\C#\FindAdressNumber - Copia\FindAdressNumber_\bin\Debug\zxing.presentation.pdb
+C:\Users\andvi\OneDrive\Project\C#\FindAdressNumber - Copia\FindAdressNumber_\bin\Debug\zxing.presentation.xml
+c:\Users\andvi\OneDrive\Project\C#\SistemaFac_WinForms\Fac\bin\Debug\plano_triagem.txt
+c:\Users\andvi\OneDrive\Project\C#\SistemaFac_WinForms\Fac\bin\Debug\FAC.exe.config
+c:\Users\andvi\OneDrive\Project\C#\SistemaFac_WinForms\Fac\bin\Debug\FAC.exe
+c:\Users\andvi\OneDrive\Project\C#\SistemaFac_WinForms\Fac\bin\Debug\FAC.pdb
+c:\Users\andvi\OneDrive\Project\C#\SistemaFac_WinForms\Fac\bin\Debug\C5.dll
+c:\Users\andvi\OneDrive\Project\C#\SistemaFac_WinForms\Fac\bin\Debug\Correios.dll
+c:\Users\andvi\OneDrive\Project\C#\SistemaFac_WinForms\Fac\bin\Debug\C5.pdb
+c:\Users\andvi\OneDrive\Project\C#\SistemaFac_WinForms\Fac\bin\Debug\C5.xml
+c:\Users\andvi\OneDrive\Project\C#\SistemaFac_WinForms\Fac\bin\Debug\Correios.pdb
+c:\Users\andvi\OneDrive\Project\C#\SistemaFac_WinForms\Fac\obj\Debug\fac.csprojAssemblyReference.cache
+c:\Users\andvi\OneDrive\Project\C#\SistemaFac_WinForms\Fac\obj\Debug\fac.Form1.resources
+c:\Users\andvi\OneDrive\Project\C#\SistemaFac_WinForms\Fac\obj\Debug\FAC.Properties.Resources.resources
+c:\Users\andvi\OneDrive\Project\C#\SistemaFac_WinForms\Fac\obj\Debug\fac.csproj.GenerateResource.cache
+c:\Users\andvi\OneDrive\Project\C#\SistemaFac_WinForms\Fac\obj\Debug\fac.csproj.CoreCompileInputs.cache
+c:\Users\andvi\OneDrive\Project\C#\SistemaFac_WinForms\Fac\obj\Debug\fac.csproj.CopyComplete
+c:\Users\andvi\OneDrive\Project\C#\SistemaFac_WinForms\Fac\obj\Debug\FAC.exe
+c:\Users\andvi\OneDrive\Project\C#\SistemaFac_WinForms\Fac\obj\Debug\FAC.pdb
